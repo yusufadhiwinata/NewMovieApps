@@ -1,8 +1,8 @@
 # react-native-movie-apps
 A small and simple example app with navigation, data persistence, listview and animation!
 
+![Simulator Screen Shot - iPhone 13 - 2022-03-26 at 05 58 40](https://user-images.githubusercontent.com/43827243/160207993-d67494b6-95f4-4f56-9f6a-d5a80de1b4b4.png)
 
-<img src="file:///var/folders/ql/97jcghzd291_wc7wsvfzt_jr0000gn/T/simulator_screenshot_3B5A0CBF-CD39-4307-8843-6386AF3A0591.png" alt="demo" width="60%"/>
 
 ## Install and run on android
 ```
